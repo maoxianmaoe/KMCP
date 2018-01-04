@@ -128,3 +128,4 @@
 
  ⑦被遮罩层中不能放置动态文本。
 
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=g0528ujq4pc&tiny=0&auto=0" allowfullscreen></iframe>
